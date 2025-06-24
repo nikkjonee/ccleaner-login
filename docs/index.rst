@@ -7,7 +7,7 @@ How to Switch Between Multiple CCleaner Login Accounts Easily? 🔄
    :maxdepth: 2
    :caption: Contents:
 
-.. login.png
+.. image:: login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
